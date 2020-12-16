@@ -82,7 +82,7 @@ module "wafv2" {
 
 | Name | Version |
 |------|---------|
-| terraform | ~> 0.13.0 |
+| terraform | >= 0.13.0 |
 | aws | ~> 3.0 |
 
 ## Providers
